@@ -3,7 +3,7 @@
 Đây là thư viện đơn giản để đọc dữ liệu từ cảm biến **DHT11** (nhiệt độ và độ ẩm) sử dụng Raspberry
 và thư viện "wiringPi".
 # Cấu trúc thư mục 
- dht11.h // Header khia báo các hàm DHT11
+ dht11.h // Header khai báo các hàm DHT11
  dht11.c // File cài đặt thư viện DHT11
  main.c // Chương trình mẫu sử dụng thư viện 
 # Yêu cầu phần cứng 
